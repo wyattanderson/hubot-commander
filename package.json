@@ -1,7 +1,9 @@
 {
   "name": "hubot-commander",
   "version": "0.0.1",
+  "author": "Wyatt Anderson <wanderson@gmail.com>",
   "dependencies": {
-    "fuzzy": "*"
+    "fuzzy": "*",
+    "underscore": "*"
   }
 }
