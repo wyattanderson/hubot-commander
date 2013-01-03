@@ -1,0 +1,7 @@
+{
+  "name": "hubot-commander",
+  "version": "0.0.1",
+  "dependencies": {
+    "fuzzy": "*"
+  }
+}
